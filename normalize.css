@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(121, 22, 22);
+}
+
+.titulo {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+
+label {
+    font-size: 20px;
+    color: white;
+
+}
+
+input {
+    height: 20px;
+    width: 120px;
+    
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border:2px solid black;
+    
+}
+
+
+
+.texto {
+    color: white;
+    font-size: 20px;
+}
+
+/*#oculto {
+    display: none;
+}*/
+
+.errores {
+    color: red;
+    font-size: 20px;
+}
+
+.moneda {
+    color: rgb(7, 177, 58);
+}
